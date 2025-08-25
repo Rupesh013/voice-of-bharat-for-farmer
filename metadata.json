@@ -1,0 +1,7 @@
+{
+  "name": "Farm Connect - AI Agricultural Platform",
+  "description": "An AI-powered platform to empower farmers with tools for crop disease diagnosis, market access, and sustainable farming practices.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
